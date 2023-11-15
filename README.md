@@ -24,8 +24,8 @@ Display Encoded Target and Scaled Features.
 
 ## Code:
 ```
-Developed by : NITHISHWAR S
-Register No. : 212221230071
+Developed by : Evangelin.S
+Register No. : 212221230025
 ```
 ```python
 import pandas as pd
